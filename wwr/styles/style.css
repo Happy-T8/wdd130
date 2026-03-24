@@ -1,0 +1,16 @@
+#background {
+  background-image: url("../images/wwr-background.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 725px;
+}
+
+body {
+    background-color: #FFFFFC; 
+}
+header {
+    background-color:#A6ABDD;
+}
+nav a:hover {
+    background-color: #79B3B9;
+}
