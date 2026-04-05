@@ -4,6 +4,7 @@ nav { display: flex; justify-content: space-between; align-items: center; paddin
 
 nav h1 { font-family: 'Kavoon', cursive; font-size: 50px; }
 .home { text-align: center; padding: 40px; font-size: 40px;}
+.home img {width: 600px;; height: auto; }
 .projects { text-align: center; padding: 40px; font-size: 50px;}
 .results { text-align: center; padding: 40px; font-size: 40px;}
 
